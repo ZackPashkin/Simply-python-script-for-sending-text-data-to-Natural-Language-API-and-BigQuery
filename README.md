@@ -26,4 +26,3 @@ Note: The Natural Language API can return more than one category for a document,
 Enjoy the [script](Simply_python_script_for_sending_text_data_to_Natural_Language_API_and_BigQuery.ipynb)!
 
 
-link: https://github.com/ZackPashkin/Simply-python-script-for-sending-text-data-to-Natural-Language-API-and-BigQuery/blob/master/Simply_python_script_for_sending_text_data_to_Natural_Language_API_and_BigQuery.ipynb
