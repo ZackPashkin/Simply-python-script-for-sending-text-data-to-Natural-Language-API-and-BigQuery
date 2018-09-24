@@ -24,3 +24,4 @@ When classifying each article is done, the data is inserted into BigQuery using 
 Note: The Natural Language API can return more than one category for a document, but for this script you're only storing the first category returned, to keep things simple.
 
 Enjoy the script!
+link: https://github.com/ZackPashkin/Simply-python-script-for-sending-text-data-to-Natural-Language-API-and-BigQuery/blob/master/Simply_python_script_for_sending_text_data_to_Natural_Language_API_and_BigQuery.ipynb
